@@ -14,3 +14,8 @@
 - 比對猜測與密碼關係
 ## Main()
 - 顯示各猜測次數統計結果與平均猜測次數
+## 編譯器資訊
+- MinGW: x86_64-8.1.0-posix-seh-rt_v6-rev0
+- GCC version: 8.1.0
+## 執行畫面
+![image](https://github.com/luxontw/1A2B-Expert-System/blob/main/demo.jpeg)
